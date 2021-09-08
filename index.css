@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+.logoText {
+  font-family: "Permanent Marker", cursive;
+  font-size: 30px;
+}
+.secondParallaxContainer {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.innerContainer {
+  width: 200px !important;
+  display: flex;
+  justify-content: center;
+}
